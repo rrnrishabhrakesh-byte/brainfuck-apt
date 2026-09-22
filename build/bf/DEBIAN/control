@@ -1,0 +1,11 @@
+Package: bf
+Version: 1.0.1
+Section: interpreters
+Priority: optional
+Architecture: all
+Depends: python3
+Conflicts: brainfuck
+Replaces: brainfuck
+Maintainer: Rishab <rrn.rishabhrakesh@gmail.com>
+Description: Simple Brainfuck interpreter
+ A command-line Brainfuck interpreter. Run programs with: bf FileName.bf

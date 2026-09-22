@@ -4,41 +4,41 @@ Hash: SHA512
 Architectures: all
 Codename: stable
 Components: main
-Date: Tue, 22 Sep 2026 21:30:19 +0000
+Date: Tue, 22 Sep 2026 21:39:46 +0000
 Description: Brainfuck interpreter APT repository
 Label: bf
 Origin: Rishab Brainfuck repository
 Suite: stable
 MD5Sum:
- aadf12ed5dae86246f7f1d1dd7fe1944              201 Release
- 1a6d42d4a3a3b513eb0027ebf420790b              482 main/binary-all/Packages
- 2b11eb6f46a7889d894ca9c4664999dd              367 main/binary-all/Packages.gz
+ bdeb27400bc8d7c3deda3e8871bbda7f              201 Release
+ f6ce794d0182fbcd00bbf119bbadaf6e              523 main/binary-all/Packages
+ 8df7c7c1a8732eef344c6a3877d6a228              387 main/binary-all/Packages.gz
 SHA1:
- 2446142ebeac7c009b40ad3cf82b6cf11955182f              201 Release
- 5beb7f4bd347b74c88139a9562f8cd4f81f99869              482 main/binary-all/Packages
- 0deb4b118c6838875d81281d2fa0b791f4e3279f              367 main/binary-all/Packages.gz
+ aee2bceeda76a05ca5ce6f4cfe61224e68c79de4              201 Release
+ 808c4474bf44aaf595eae2246d51164e3bb0cd3c              523 main/binary-all/Packages
+ 865bec2738652f88532a45e49000d320a21885c2              387 main/binary-all/Packages.gz
 SHA256:
- 540840fb60a05546cce16f6c0ecb6ae65d5d352837c3147a4cfd318aa964b564              201 Release
- 4a9973f7ef2f234c9f5b68983c7be77555f65d9fe186d65d93de4ce37936d7bd              482 main/binary-all/Packages
- a30ea06aeeab6a64acf0aae0821020235ca1b510744296733c29d04c284c4974              367 main/binary-all/Packages.gz
+ 6bce811c5e660910e17f22c934d1332f31c208ed847b99211337bd695c2fcf69              201 Release
+ 6b2986a2d500a5f8ee9006cf98c74da2d3e07f260fcefa80a5613d48e406c1c0              523 main/binary-all/Packages
+ d603d350102eb62ee3fbf623fefe544678f5ad1fe90fe3c23742ade399a15388              387 main/binary-all/Packages.gz
 SHA512:
- ae22e1d337d066cdc1c92173c2f180a0021af46f030999dfce6ce918793e6d048d5ad0a91904577ef21023acd2ae391c38594a55e22753ce977130149779bed4              201 Release
- 82db7da3b6dba3bbd9d7af0acc5f8dac156302983ca6828e3467b71825bffeb9b569db91881491607c175a6dcd01d96ecff3fb3dc7cb4d1ff9d03dee3976ce44              482 main/binary-all/Packages
- d4f6da067f03ff7c6eb0b96ce54fc307441857e8fae16ad9a11220100ee3e43a72ba24c21480e47af79caf89d9596b4e1ac91629b60db6a1b6a833715a5c100a              367 main/binary-all/Packages.gz
+ aa8ce4dbce43d7315b4393ada43ee66acfe5de1d93cd4b7c355bb73ed79bca72c3ad3099c55f87edb641e340525242c745591f5328062c4e3ad8766f82ec78fa              201 Release
+ 9a9ed08a00e7259cd90a636d2e86719ac78fd5287f51403f8ed70578cf05e442a3876658d75b4d314eca7a21317495d1388f913f88b58802461d034c1e5eb2e2              523 main/binary-all/Packages
+ f76b761e5fc12bf7b1f6b2e4ea16699d19e0deb1d1c79280fcc0bdcb03e69d6e3bcc1b37fb3b3b43a5902b5d19164d3999360a1f1db8a6ca3c984cc7c2047e12              387 main/binary-all/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQJQBAEBCgA6FiEEjklGhG/wEjHfojmiTcM++z1+AScFAmqy9JgcHHJybi5yaXNo
-YWJocmFrZXNoQGdtYWlsLmNvbQAKCRBNwz77PX4BJ7Y4D/9OLq6P8wY5kA9CJPZY
-/3T0UO1cgL/cyW/z9YAU2fnkY6T6evjNnGjGDF6DW8C2sZM91FgPr475cy/+HPQU
-PzkwdFX49Cr64fEcvgzB5rt6v6xt/FlXRK1q9lGHXf6C0mgtGYtFSYCG0Qmk9aia
-BQMzYzA72gWNw+Q9eUhk5Khc75w4mnSnMbY6U8kk0yL36nBa0+gCNI/oIUJ4fnXb
-//oifsP04yL+fr+trYmHyyLfx7+CDstv9VLzl1v7cRoIAbhAJSBitvVMn63ycv0w
-YUjpWKV/SUUTWCwbgIAerKlVx7OP3V4nFYycy9FaM2Y4XwR0iX31fGgzM19AnZA5
-2MFy+gGOkynGLdFhlOa84Tj+h9o4vRNJECuFyPHF/PcHJED8OqacLdHj7zzfmfs7
-rK5021zxwAXs3Ze06GHQdnf1qVt1b/s0UVHfqmxBdzf2JAJvel7o4jMC7O4nuEWz
-AyiIAzFWxyYW47FdIlnOvLKpT9kjkl4wexPI735lXtsoO6cNWjCol0JkrS2qQFuQ
-+WHb8s8h3hqalBSjueTMuFZReVdVIlENo2p5UL4+0wvQ+RLUZl6EaMx4dUSeNiyo
-M6TAd+T2PC2GXxVijx9scVbu2ssLA1epqNDBKRUQeyl1Nb1WFm8P+qYuJHGbZic/
-t0N8r64SfGQzY/m+sgSslAI88A==
-=mFBw
+iQJQBAEBCgA6FiEEjklGhG/wEjHfojmiTcM++z1+AScFAmqy9aIcHHJybi5yaXNo
+YWJocmFrZXNoQGdtYWlsLmNvbQAKCRBNwz77PX4BJwd/D/9txT8+cPT0x27sFd9q
+S7QbTDP//WPPPm5qDAfultGGOvxcUOPh6hb5s8F3C8od2PpVoH8Qb1fBGBBKNa0v
+/U6/x1+UxETUmUD03gLC6uH/eDRyVdrjGJd8oOBnFcgeGcEv9DbDh2en5TM6q4cM
+nIYjCYM2vzqSRLteGg//uDDEhlMHmrRt5ub7I9ACO8zpitqfsm2ppyEaxoislFtR
+x76m9Cq7JKBTrNqdreiztlTQKIWPBmT+w1LwslBrZnd2eLQDuZXXNLCf8R3XlyPC
+mcFpG4xkvhDAbZBq6LwPQD13eZffwxBL6+IHiBcVY70ii/AJz9xOnCkUrcUFM08f
+MgNurNIwOnhY4hyMANIp5pClHFXrwTuidEMuDFS2NqYDJJtycyFpDNaNawYEpI+s
+6ZL8vudb4egNGSaPj4BXVS7QHjhSDNtIwPmhFEAi377lXKX7DImEyn9arwNaAwVz
+jQ7M37eDtwuwEq2ktldQwVKjVwRXOS+jsIdEqTeYQidqdP39zb4S0wTMLeK1blge
+rcQLq+z4ePGUM664iw+bUOPXauyg4TMO9UDhIMiU5DQ6he+g1EBcqmu5EY+IDTTH
+Abrpj9OPgx0kfm3zyCMACqf685Go8CBY0VvqdhyFrl7tBsxGztcjI9g+taGHBV5N
+m6VqwsL7Q/J3q7ahQNHMBDJpiw==
+=9+F4
 -----END PGP SIGNATURE-----
