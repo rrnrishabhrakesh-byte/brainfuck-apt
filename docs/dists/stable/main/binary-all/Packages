@@ -1,0 +1,15 @@
+Package: bf
+Version: 1.0.0
+Architecture: all
+Maintainer: Rishab <rrn.rishabhrakesh@gmail.com>
+Depends: python3
+Filename: pool/main/b/bf/bf_1.0.0_all.deb
+Size: 1156
+MD5sum: 511d892d38cb7422a5922b120aa88b0b
+SHA1: f541cdafe453f23a9414ac921008d2d13c2a7f42
+SHA256: bf95293614c4fb62a7fbd03ce5182cfa3e5c8d3d129dd1a5b0812a68287a99ee
+Section: interpreters
+Priority: optional
+Description: Simple Brainfuck interpreter
+ A command-line Brainfuck interpreter. Run programs with: bf FileName.bf
+

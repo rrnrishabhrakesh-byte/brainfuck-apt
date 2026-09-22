@@ -1,0 +1,24 @@
+Architectures: all
+Codename: stable
+Components: main
+Date: Tue, 22 Sep 2026 21:30:19 +0000
+Description: Brainfuck interpreter APT repository
+Label: bf
+Origin: Rishab Brainfuck repository
+Suite: stable
+MD5Sum:
+ aadf12ed5dae86246f7f1d1dd7fe1944              201 Release
+ 1a6d42d4a3a3b513eb0027ebf420790b              482 main/binary-all/Packages
+ 2b11eb6f46a7889d894ca9c4664999dd              367 main/binary-all/Packages.gz
+SHA1:
+ 2446142ebeac7c009b40ad3cf82b6cf11955182f              201 Release
+ 5beb7f4bd347b74c88139a9562f8cd4f81f99869              482 main/binary-all/Packages
+ 0deb4b118c6838875d81281d2fa0b791f4e3279f              367 main/binary-all/Packages.gz
+SHA256:
+ 540840fb60a05546cce16f6c0ecb6ae65d5d352837c3147a4cfd318aa964b564              201 Release
+ 4a9973f7ef2f234c9f5b68983c7be77555f65d9fe186d65d93de4ce37936d7bd              482 main/binary-all/Packages
+ a30ea06aeeab6a64acf0aae0821020235ca1b510744296733c29d04c284c4974              367 main/binary-all/Packages.gz
+SHA512:
+ ae22e1d337d066cdc1c92173c2f180a0021af46f030999dfce6ce918793e6d048d5ad0a91904577ef21023acd2ae391c38594a55e22753ce977130149779bed4              201 Release
+ 82db7da3b6dba3bbd9d7af0acc5f8dac156302983ca6828e3467b71825bffeb9b569db91881491607c175a6dcd01d96ecff3fb3dc7cb4d1ff9d03dee3976ce44              482 main/binary-all/Packages
+ d4f6da067f03ff7c6eb0b96ce54fc307441857e8fae16ad9a11220100ee3e43a72ba24c21480e47af79caf89d9596b4e1ac91629b60db6a1b6a833715a5c100a              367 main/binary-all/Packages.gz
